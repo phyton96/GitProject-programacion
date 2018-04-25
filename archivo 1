@@ -1,0 +1,10 @@
+x=eval(input("digite un numero"))
+y=eval(input("digite un numero"))
+z=eval(input("digite una operacion"))
+if(z=="+"):
+    a=x+y
+    print("el valor de a es: "+a)
+else:
+    if(z=="-"):
+        a=x-y
+        print("el valor de a es: "+a)

@@ -6,5 +6,7 @@ def sumaloca(n,m):
     
     resultado= n*2+m*3
     print("=",resultado)
-    
+    resultado = resultado * 2
+    print(resultado)
+
 sumaloca(n,m)
